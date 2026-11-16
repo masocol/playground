@@ -1,2 +1,3 @@
 this is a test file
 This is a new line1
+Thi is a newline2
